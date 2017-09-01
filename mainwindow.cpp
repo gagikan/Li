@@ -6,6 +6,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     //qunimabi
+    //heheh  saobiaozi
 }
 
 MainWindow::~MainWindow()
