@@ -8,6 +8,8 @@ MainWindow::MainWindow(QWidget *parent) :
     //qunimabi
     //heheh  saobiaozi
     //daheibi
+    //gunduzui
+
 }
 
 MainWindow::~MainWindow()
