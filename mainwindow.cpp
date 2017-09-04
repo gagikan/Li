@@ -16,7 +16,7 @@ MainWindow::MainWindow(QWidget *parent) :
     //low
     //this is second
     //this is forth
-    //wo ai ni yanji
+    //caonimamama
 
 }
 
