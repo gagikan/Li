@@ -14,6 +14,7 @@ MainWindow::MainWindow(QWidget *parent) :
     QString xingzhudashabi = "zhende";
     //nimabi
     //low
+    //this is second
 
 }
 
