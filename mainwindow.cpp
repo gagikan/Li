@@ -11,6 +11,7 @@ MainWindow::MainWindow(QWidget *parent) :
     //gunduzui
     //SBZHU
     QString zhu = "xing";
+    QString xingzhudashabi = "zhende";
 
 }
 
