@@ -9,6 +9,8 @@ MainWindow::MainWindow(QWidget *parent) :
     //heheh  saobiaozi
     //daheibi
     //gunduzui
+    //SBZHU
+    QString zhu = "xing";
 
 }
 
